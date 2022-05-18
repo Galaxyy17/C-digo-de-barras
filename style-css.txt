@@ -1,0 +1,48 @@
+#Topo{
+    background-color: blueviolet;
+    color: cornsilk;
+}
+
+#bvn{
+    padding: 20%;
+    color: wheat;
+    background-color:indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#cont{
+    padding: 10%;
+}
+
+#mamao{
+    margin-top: 10%;
+}
+
+#card1{
+   width: 100%;
+}
+#Cel1{
+    margin-top: 5%;
+    margin-left: 25%;
+   width: 50%;
+   height: 40%;
+}
+
+#Cel2{
+    margin-top: 5%;
+    margin-left: 5%;
+   width: 35%;
+   height: 30%;
+}
+
+#Cel3{
+   width: 50%;
+   height: 40%;
+}
+
+#Cel4{
+   width: 50%;
+   height: 40%;
+}
